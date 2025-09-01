@@ -1,0 +1,2 @@
+# Code sprint
+Code Sprint is a short terminal-based Python game designed for the Brain Jam weekend challenge.   The goal: teach players basic programming logic through interactive choices — no prior coding experience required.  Players help an avatar overcome obstacles by selecting the correct Python code snippets.   Each level introduces a new concept like `if` statements, `while` loops, and variable logic. 
