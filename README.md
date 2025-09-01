@@ -28,7 +28,8 @@ Each level introduces a new concept like `if` statements, `while` loops, and var
    ```bash
    git clone https://github.com/your-username/code-sprint.git
    cd code-sprint
-
+   ```
 2. Run the game:
+```bash
    python code_sprint.py
    ```
